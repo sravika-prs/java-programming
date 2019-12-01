@@ -1,5 +1,10 @@
 package chapter2;
 
+/*
+Author: Sravika Nimmala
+Date: 12/1/2019
+*/
+
 import java.util.Scanner;
 
 public class GrossPayCalculator {
